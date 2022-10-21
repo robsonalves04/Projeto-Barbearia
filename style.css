@@ -242,6 +242,7 @@ td , th{
 
 .imagembeneficios{
     width: 60%;
+    opacity: 0.5;
 }
 
 .video{
